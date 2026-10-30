@@ -1,0 +1,10 @@
+Endpoint: /asp/GetRandCount.asp
+Method observed: GET
+HTTP status: 200
+Content-Type: text/html
+Observed body format: UTF-8 BOM followed by a 32-character hexadecimal-looking string
+Actual response value: [REDACTED — NOT PUBLISHED]
+
+Interpretation:
+This observation does not establish token entropy, predictability, replay resistance,
+session binding, expiration, or server-side validation.
